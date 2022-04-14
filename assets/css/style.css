@@ -3,9 +3,43 @@
     src: url(../font/font.ttf);
   }
 
-p.font{
+p{
     font-family: coolFont;
+    color: aliceblue;
 }
-a.font{
+a{
     font-family: coolFont;
+    color: aliceblue;
+}
+h1{
+    font-family: coolFont;
+    color: aliceblue;
+}
+h3{
+    font-family: coolFont;
+    color: aliceblue;
+}
+div.content{
+    position: relative;
+    left: 46%;
+    top: 300px;
+}
+body{
+    background-color: rgb(46, 46, 46);
+}
+h3.desc{
+    position: relative;
+    right: 13px;
+}
+a.yt{
+    position: relative;
+    right: 20px;
+}
+a.github{
+    position: relative;
+    right: 19px;
+}
+a.proj{
+    position: relative;
+    right: 19px;
 }
