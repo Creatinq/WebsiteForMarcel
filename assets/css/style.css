@@ -1,0 +1,11 @@
+@font-face {
+    font-family: coolFont;
+    src: url(../font/font.ttf);
+  }
+
+p.font{
+    font-family: coolFont;
+}
+a.font{
+    font-family: coolFont;
+}
