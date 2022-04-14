@@ -1,2 +1,2 @@
 # WebsiteForMarcel
-A Website for Marcel, not made by me nor do I take credit for it.
+A Website for Marcel, made by me, oyMarcel
